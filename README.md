@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Jilla
 
 #### Contributions:
-* Raised a small PR for [Flutter Image Compress](https://github.com/OpenFlutter/flutter_image_compress)
+* Raised a PR for [Flutter Image Compress](https://github.com/OpenFlutter/flutter_image_compress) to fix an OutOfMemory Error.
 * Published [calendar_flutter](https://pub.dev/packages/calendar_flutter) and [custom_progress_dialog](https://pub.dev/packages/custom_progress_dialog)
