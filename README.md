@@ -1,17 +1,14 @@
 ### Hi there 👋
+I am currently working as a Senior Software Engineer(Mobile App Dev) at [LeanIX](https://www.leanix.net/en/). Previously I worked on [Practically Learning App](https://www.practically.com/web/index.php), an Ed.Tech app and before that I worked for [Securifi](https://www.securifi.com/rg).
 
-<!--
-**VikasJilla/VikasJilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
 #### Here is something about me:
-- 🔭 I’m currently working on [Practically Learning app](https://www.practically.com/web/index.php).
+- 🔭 I’m currently reading an interesting book: [The Software Architect Elevator](https://g.co/kgs/LqrTWR)
 - 🌱 I’m currently learning HTML,CSS,JS and ReactJS to build [My Profile](https://vikasjilla.github.io/).
 - 👯 I’m looking to collaborate on projects that are developed in Flutter.
 - 💬 Ask me about anything related to mobile development, if I don't know, I will learn and get back.
 - 📫 How to reach me: jillavikas@gmail.com
-- 😄 Pronouns: Jilla
+- 😄 Pronouns: Jilla/He/him
 
 #### Contributions:
 * Raised a PR for [Flutter Image Compress](https://github.com/OpenFlutter/flutter_image_compress) to fix an OutOfMemory Error.
